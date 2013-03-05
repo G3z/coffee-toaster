@@ -1,4 +1,4 @@
-toast 'src'
+toast 'src',
 	minify: false
 	expose: 'exports'
 	release: 'lib/toaster.js'

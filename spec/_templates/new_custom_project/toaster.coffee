@@ -1,5 +1,5 @@
 # => SRC FOLDER
-toast 'custom_src'
+toast 'custom_src',
 
   # EXCLUDED FOLDERS (optional)
   # exclude: ['folder/to/exclude', 'another/folder/to/exclude', ... ]
